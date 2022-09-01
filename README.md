@@ -1,2 +1,2 @@
 # Programacion1c
-ejercios de la primera cursada de programación
+ejercicios de la primera cursada de programación
